@@ -25,7 +25,7 @@ To successfully complete this tutorial, you are required to:
    - If you do not have a GoodData account yet, [create one](https://gooddata-examples.herokuapp.com/registration). After creating a GoodData account, you will be redirected to our GoodData.UI Live Examples. Feel free to get inspired there, but its not related to this homework.
 6. Visit https://localhost:3000/, and make sure that two column charts are loaded like this:
 
-![Screenshot after initialization](https://github.com/hoainam0503/Gooddata-js-interview/blob/master/public/screenDateTime.png "Initialization Screenshot")
+![Screenshot after initialization](https://github.com/HoaiNam050396/gooddata-js-interview/blob/master/public/screenDateTime.png "Initialization Screenshot")
 
 7. Select the interval to view the statistical report. After selecting the start date and then selecting an end date (Note: the end date cannot be selected before the start date)
 
@@ -36,7 +36,7 @@ To successfully complete this tutorial, you are required to:
 ### Troubleshooting
 
 ###### Cloning the repo fails
-* If cloning using SSH fails, try HTTPS instead: `git clone https://github.com/gooddata/gooddata-js-interview.git`.
+* If cloning using SSH fails, try HTTPS instead: `git clone https://github.com/HoaiNam050396/gooddata-js-interview.git`.
 
 ###### Server https://developer.na.gooddata.com/ seems to be down.
 * If you decided to work on this homework during the weekend, it is possible our platform may be down for several hours due to maintenance (typically on Saturdays). If https://developer.na.gooddata.com/ is down, try again in an hour or two. If you need more time to work on this homework, let us know.
