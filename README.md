@@ -25,15 +25,9 @@ To successfully complete this tutorial, you are required to:
    - If you do not have a GoodData account yet, [create one](https://gooddata-examples.herokuapp.com/registration). After creating a GoodData account, you will be redirected to our GoodData.UI Live Examples. Feel free to get inspired there, but its not related to this homework.
 6. Visit https://localhost:3000/, and make sure that two column charts are loaded like this:
 
-![Screenshot after initialization](https://github.com/gooddata/gooddata-js-interview/blob/master/public/screen.png "Initialization Screenshot")
+![Screenshot after initialization](https://github.com/hoainam0503/Gooddata-js-interview/blob/master/public/screenDateTime.png "Initialization Screenshot")
 
-### Task
-
-__Make the dropdown work. That is, the dropdown `onChange` should reload the upper chart appropriately.__
-
-When you are done, send us the link to your source code repo and the instructions how to run the demo.
-
-We are looking for re-usable code. You are strongly encouraged to "over-engineer" this to show off your software architecture and designing skills. Assume that this abstract application will be the first component of a large scale application.
+7. Select the interval to view the statistical report. After selecting the start date and then selecting an end date (Note: the end date cannot be selected before the start date)
 
 ### GoodData.UI Documentation
 
@@ -59,3 +53,4 @@ We are looking for re-usable code. You are strongly encouraged to "over-engineer
 ---
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+# Gooddata-js-interview
